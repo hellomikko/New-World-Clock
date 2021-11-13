@@ -6,7 +6,7 @@ labels: ''
 assignees: ''
 
 ---
-Before you get started, please [search here]( https://github.com/icueMike/New-World-Clock/issues?q=is%3Aissue) first and scope out any issues that are the same or similar to yours. Chances are it could be related and there could be a fix. If there is nothing already posted, continue on below using the following as a template guide to help you fill in your issue 😎
+Before you get started, please first and scope out any issues that are the same or similar to yours. Chances are it could be related and there could be a fix. If there is nothing already posted, continue on below using the following as a template guide to help you fill in your issue 😎
 
 
 **Describe the bug**
