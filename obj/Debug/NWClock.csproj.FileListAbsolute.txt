@@ -1,0 +1,12 @@
+E:\Visual Studio Projects\Repos\NWClock\bin\Debug\NWClock.exe.config
+E:\Visual Studio Projects\Repos\NWClock\bin\Debug\NWClock.exe
+E:\Visual Studio Projects\Repos\NWClock\bin\Debug\NWClock.pdb
+E:\Visual Studio Projects\Repos\NWClock\bin\Debug\JDragControl.dll
+E:\Visual Studio Projects\Repos\NWClock\obj\Debug\NWClock.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio Projects\Repos\NWClock\obj\Debug\NWClock.NWClock.resources
+E:\Visual Studio Projects\Repos\NWClock\obj\Debug\NWClock.Properties.Resources.resources
+E:\Visual Studio Projects\Repos\NWClock\obj\Debug\NWClock.csproj.GenerateResource.cache
+E:\Visual Studio Projects\Repos\NWClock\obj\Debug\NWClock.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Repos\NWClock\obj\Debug\NWClock.csproj.CopyComplete
+E:\Visual Studio Projects\Repos\NWClock\obj\Debug\NWClock.exe
+E:\Visual Studio Projects\Repos\NWClock\obj\Debug\NWClock.pdb

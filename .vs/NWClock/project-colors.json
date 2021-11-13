@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eb355205-b350-48e8-ae23-10d572ad19ee": {
+      "ProjectGuid": "eb355205-b350-48e8-ae23-10d572ad19ee",
+      "DisplayName": "NWClock",
+      "ColorIndex": 0
+    },
+    "3540c9eb-4265-4fc1-b760-f64898fda9d2": {
+      "ProjectGuid": "3540c9eb-4265-4fc1-b760-f64898fda9d2",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
